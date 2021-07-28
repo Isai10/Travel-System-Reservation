@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RS Repository", "RS Reposit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RS Service", "RS Service\RS Service.csproj", "{9EEF6355-4FB0-46F5-9D42-BBD03352AC5B}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DBRSTemp", "Database RS Temp\DBRSTemp.sqlproj", "{B9457C89-F8FF-4481-895D-91E71A8CF5A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,12 @@ Global
 		{9EEF6355-4FB0-46F5-9D42-BBD03352AC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EEF6355-4FB0-46F5-9D42-BBD03352AC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EEF6355-4FB0-46F5-9D42-BBD03352AC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9457C89-F8FF-4481-895D-91E71A8CF5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9457C89-F8FF-4481-895D-91E71A8CF5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9457C89-F8FF-4481-895D-91E71A8CF5A5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B9457C89-F8FF-4481-895D-91E71A8CF5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9457C89-F8FF-4481-895D-91E71A8CF5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9457C89-F8FF-4481-895D-91E71A8CF5A5}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
