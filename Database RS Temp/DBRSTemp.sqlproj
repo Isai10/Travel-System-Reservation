@@ -58,6 +58,7 @@
   <ItemGroup>
     <Build Include="User.sql" />
     <Build Include="Rol.sql" />
+    <Build Include="Tour.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="DBRSTemp.refactorlog" />
