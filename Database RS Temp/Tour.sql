@@ -1,7 +1,12 @@
-﻿CREATE TABLE [dbo].[Tour]
+﻿
+
+CREATE TABLE [dbo].[Tour]
 (
-	[id] INT IDENTITY (2101,1)NOT NULL PRIMARY KEY, 
-    [tour_name] VARCHAR(100) NOT NULL,
+	[Id] INT IDENTITY(0701,1) NOT NULL PRIMARY KEY,
+	[tour_name] VARCHAR(100) NOT NULL,
 	[id_city] INT NOT NULL,
-	[price] MONEY NOT NULL
+	[initDate] DATE NOT NULL, 
+	[toDate] DATE NOT NULL,
+	[limit] INT NOT NULL,
+	[price]  MONEY NOT NULL
 )
