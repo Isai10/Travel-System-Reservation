@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("RS Domain")]
+[assembly: AssemblyTitle("RS Infrastructure Data")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RS Domain")]
+[assembly: AssemblyProduct("RS Infrastructure Data")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("68cdc493-dc63-46a7-bde7-d195c68c80ba")]
+[assembly: Guid("10821769-614b-4d74-b801-83100d7227ba")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //

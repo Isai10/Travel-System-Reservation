@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RS_Repository
+namespace RS_Infrastructure_Data.Context
 {
-    public class Class1
+    class RSDBContext
     {
     }
 }
